@@ -1,0 +1,12 @@
+{
+    "name": "masiting/wordpress",
+    "authors": [
+        {
+            "name": "Rafi Halilintar",
+            "email": "masitingss@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.133"
+    }
+}
